@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UfcMf2ECl/AkMgdfV0sw6vTFshGQzbe6iQ4Ai0BUkWAFu37n4rQ0dH3p+oqfZT2oNtFAdIhuZmoT1/tgpeZWA==",
+  "success": true,
+  "projectFilePath": "D:\\NextCloud\\Whale\\Учеба\\SkillFactory2023\\Source\\Repos\\Modul_5\\App_Task_5.5.3\\Task_5.5.3\\Task_5.5.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blago\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\blago\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\blago\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\blago\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\blago\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\blago\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

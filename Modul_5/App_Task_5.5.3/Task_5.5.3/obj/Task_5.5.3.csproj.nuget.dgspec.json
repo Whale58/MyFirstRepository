@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NextCloud\\Whale\\Учеба\\SkillFactory2023\\Source\\Repos\\Modul_5\\App_Task_5.5.3\\Task_5.5.3\\Task_5.5.3.csproj": {}
+  },
+  "projects": {
+    "D:\\NextCloud\\Whale\\Учеба\\SkillFactory2023\\Source\\Repos\\Modul_5\\App_Task_5.5.3\\Task_5.5.3\\Task_5.5.3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NextCloud\\Whale\\Учеба\\SkillFactory2023\\Source\\Repos\\Modul_5\\App_Task_5.5.3\\Task_5.5.3\\Task_5.5.3.csproj",
+        "projectName": "Task_5.5.3",
+        "projectPath": "D:\\NextCloud\\Whale\\Учеба\\SkillFactory2023\\Source\\Repos\\Modul_5\\App_Task_5.5.3\\Task_5.5.3\\Task_5.5.3.csproj",
+        "packagesPath": "C:\\Users\\blago\\.nuget\\packages\\",
+        "outputPath": "D:\\NextCloud\\Whale\\Учеба\\SkillFactory2023\\Source\\Repos\\Modul_5\\App_Task_5.5.3\\Task_5.5.3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
